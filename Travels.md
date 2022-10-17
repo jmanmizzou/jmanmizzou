@@ -66,3 +66,11 @@ override var representedObject: Any? {
 
  }
 ```
+
+If you'd like to continue learning about me, reread the page, or go back to the [home page](README.md), please click one!
+
+- [Learn About Me!](AboutMe.md)
+- [Learn About My Work!](MyWork.md)
+- [Learn About My Travels!](Travels.md)
+- [Learn About My Education!](Education.md)
+- [Learn About My Interests!](MyInterests.md)
