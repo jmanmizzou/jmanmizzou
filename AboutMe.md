@@ -68,7 +68,7 @@ Here is a photo of me skydiving in Interlaken, Switzerland!
 
 If you'd like to learn more about the skydiving company that I jumped with in Switzerland, please [click here!](https://www.skydiveswitzerland.com/)
 
-If you'd like to continue learning about me or go back to the [home page](ReadMe.md),
+If you'd like to continue learning about me or go back to the [home page](README.md),
         
 
 
