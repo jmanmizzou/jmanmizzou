@@ -1,6 +1,6 @@
 # Traveling 
 
-I have lucky enough to see a large part of this world and I'd love to share my Experiences with you! I've been to every European country and through most of Latin America! 
+I have lucky enough to see a large part of this world and I'd love to share my Experiences with you! I've been to **every European country** and through some of **Latin America!** 
 
 ### My Top 3 Countires That I've Visited Are:
 
