@@ -2,4 +2,5 @@
 
 *Discrption:* Please click a link to learn more about me!
 
-[Learn About Me!](AboutMe.md)
+- [Learn About Me!](AboutMe.md)
+- [Learn About My Work](MyWork.md)
