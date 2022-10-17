@@ -5,5 +5,5 @@
 - [Learn About Me!](AboutMe.md)
 - [Learn About My Work](MyWork.md)
 - [Learn About My Travels](Travels.md)
-- [Learn About my Education](Education.md)
-- [Learn About my Interests](MyInterests.md)
+- [Learn About My Education](Education.md)
+- [Learn About My Interests](MyInterests.md)
